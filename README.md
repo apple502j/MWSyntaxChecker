@@ -1,0 +1,2 @@
+# MWSyntaxChecker
+MediaWiki Syntax checker.
