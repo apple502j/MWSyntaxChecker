@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     name="MWSyntaxChecker",
@@ -17,6 +17,6 @@ setup(
         'Programming Language :: Python :: 3.6'
     ],
     keywords='mediawiki syntax checker',
-    packages=['MWSyntaxChecker'],
+    packages=find_packages(),
     python_requires='>=2.7',
 )
