@@ -1,0 +1,6 @@
+urllib3==1.22
+idna==2.6
+certifi==2018.4.16
+chardet==3.0.4
+requests==2.18.4
+mw-api-client==2.1.0
